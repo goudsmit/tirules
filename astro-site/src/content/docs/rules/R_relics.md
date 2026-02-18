@@ -32,11 +32,11 @@ Relics are powerful artifacts with unique abilities.
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Component Action](r_component_action)
- - [Exhausted](r_exhausted)
- - [Exploration](r_exploration)
- - [Purge](r_purge)
- - [Readied](r_readied)
+ - [Abilities](../r_abilities)
+ - [Component Action](../r_component_action)
+ - [Exhausted](../r_exhausted)
+ - [Exploration](../r_exploration)
+ - [Purge](../r_purge)
+ - [Readied](../r_readied)
  
  

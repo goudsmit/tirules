@@ -81,11 +81,11 @@ The Nekro Virus faction can use its faction abilities in combination with its tw
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Component Action](r_component_action)
- - [Exhausted](r_exhausted)
- - [Readied](r_readied)
- - <a href="/rules/r_technology_sc">Technology (<abbr title="Strategy Card">S.C.</abbr>)</sub></a>
- - [Unit Upgrades](r_unit_upgrades)
+ - [Abilities](../r_abilities)
+ - [Component Action](../r_component_action)
+ - [Exhausted](../r_exhausted)
+ - [Readied](../r_readied)
+ - [Technology (<abbr title="Strategy Card">S.C.</abbr>)](../r_technology_sc)
+ - [Unit Upgrades](../r_unit_upgrades)
  
  

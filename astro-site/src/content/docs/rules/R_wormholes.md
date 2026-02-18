@@ -37,10 +37,10 @@ Some systems contain wormholes. Systems that contain identical wormholes are adj
 ## Related Topics
 
  
- - [Adjacency](r_adjacency)
- - [Movement](r_movement)
- - [Neighbors](r_neighbors)
- - [System Tiles](r_system_tiles)
- - [Wormhole Nexus](r_wormhole_nexus)
+ - [Adjacency](../r_adjacency)
+ - [Movement](../r_movement)
+ - [Neighbors](../r_neighbors)
+ - [System Tiles](../r_system_tiles)
+ - [Wormhole Nexus](../r_wormhole_nexus)
  
  

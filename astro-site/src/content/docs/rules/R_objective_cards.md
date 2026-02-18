@@ -87,10 +87,10 @@ A secret objective is an objective that is controlled by one player and is hidde
 ## Related Topics
 
  
- - [Action Phase](r_action_phase)
- - [Agenda Phase](r_agenda_phase)
- - [Imperial](r_imperial)
- - [Status Phase](r_status_phase)
- - [Victory Points](r_victory_points)
+ - [Action Phase](../r_action_phase)
+ - [Agenda Phase](../r_agenda_phase)
+ - [Imperial](../r_imperial)
+ - [Status Phase](../r_status_phase)
+ - [Victory Points](../r_victory_points)
  
  

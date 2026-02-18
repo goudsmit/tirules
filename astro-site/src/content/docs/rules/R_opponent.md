@@ -20,9 +20,9 @@ During combat, a player’s opponent is the other player that either has ships i
 ## Related Topics
 
  
- - [Attacker](r_attacker)
- - [Defender](r_defender)
- - [Ground Combat](r_ground_combat)
- - [Space Combat](r_space_combat)
+ - [Attacker](../r_attacker)
+ - [Defender](../r_defender)
+ - [Ground Combat](../r_ground_combat)
+ - [Space Combat](../r_space_combat)
  
  

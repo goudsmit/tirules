@@ -26,13 +26,13 @@ A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers
 ## Related Topics
 
  
- - [Capacity](r_capacity)
- - [Combat](r_combat)
- - [Cost](r_cost)
- - [Fleet Pool](r_fleet_pool)
- - [Move](r_move)
- - [Movement](r_movement)
- - [Space Combat](r_space_combat)
- - [Units](r_units)
+ - [Capacity](../r_capacity)
+ - [Combat](../r_combat)
+ - [Cost](../r_cost)
+ - [Fleet Pool](../r_fleet_pool)
+ - [Move](../r_move)
+ - [Movement](../r_movement)
+ - [Space Combat](../r_space_combat)
+ - [Units](../r_units)
  
  

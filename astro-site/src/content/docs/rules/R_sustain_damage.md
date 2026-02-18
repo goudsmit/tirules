@@ -28,12 +28,12 @@ Some units have the Sustain Damage ability. Immediately before a player assigns 
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Anti–Fighter Barrage](r_anti_fighter_barrage)
- - [Bombardment](r_bombardment)
- - [Destroyed](r_destroyed)
- - [Ground Combat](r_ground_combat)
- - [Space Combat](r_space_combat)
- - [Status Phase](r_status_phase)
+ - [Abilities](../r_abilities)
+ - [Anti–Fighter Barrage](../r_anti_fighter_barrage)
+ - [Bombardment](../r_bombardment)
+ - [Destroyed](../r_destroyed)
+ - [Ground Combat](../r_ground_combat)
+ - [Space Combat](../r_space_combat)
+ - [Status Phase](../r_status_phase)
  
  

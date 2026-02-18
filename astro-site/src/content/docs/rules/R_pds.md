@@ -25,10 +25,10 @@ A PDS (planetary defense system) is a structure that allows a player to defend t
 ## Related Topics
 
  
- - [Construction](r_construction)
- - [Planetary Shield](r_planetary_shield)
- - [Structures](r_structures)
- - [Space Cannon](r_space_cannon)
- - [Units](r_units)
+ - [Construction](../r_construction)
+ - [Planetary Shield](../r_planetary_shield)
+ - [Structures](../r_structures)
+ - [Space Cannon](../r_space_cannon)
+ - [Units](../r_units)
  
  

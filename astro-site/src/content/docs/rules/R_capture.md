@@ -46,9 +46,9 @@ Some abilities instruct a player to capture a unit, preventing the unit’s orig
 ## Related Topics
 
  
- - [Blockaded](r_blockaded)
- - [Fighter Tokens](r_fighter_tokens)
- - [Infantry Tokens](r_infantry_tokens)
- - [Transactions](r_transactions)
+ - [Blockaded](../r_blockaded)
+ - [Fighter Tokens](../r_fighter_tokens)
+ - [Infantry Tokens](../r_infantry_tokens)
+ - [Transactions](../r_transactions)
  
  

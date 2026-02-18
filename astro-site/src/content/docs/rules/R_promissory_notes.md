@@ -47,9 +47,9 @@ Each player begins the game with one unique and five generic promissory note car
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Component Action](r_component_action)
- - [Elimination](r_elimination)
- - [Transactions](r_transactions)
+ - [Abilities](../r_abilities)
+ - [Component Action](../r_component_action)
+ - [Elimination](../r_elimination)
+ - [Transactions](../r_transactions)
  
  

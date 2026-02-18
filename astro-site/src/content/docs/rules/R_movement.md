@@ -48,16 +48,16 @@ To resolve movement, players perform the following steps:
 ## Related Topics
 
  
- - [Active System](r_active_system)
- - [Adjacency](r_adjacency)
- - [Anomalies](r_anomalies)
- - [Capacity](r_capacity)
- - [Hyperlanes](r_hyperlanes)
- - [Move](r_move)
- - [Ships](r_ships)
- - [Space Cannon](r_space_cannon)
- - [Tactical Action](r_tactical_action)
- - [Transport](r_transport)
- - [Wormholes](r_wormholes)
+ - [Active System](../r_active_system)
+ - [Adjacency](../r_adjacency)
+ - [Anomalies](../r_anomalies)
+ - [Capacity](../r_capacity)
+ - [Hyperlanes](../r_hyperlanes)
+ - [Move](../r_move)
+ - [Ships](../r_ships)
+ - [Space Cannon](../r_space_cannon)
+ - [Tactical Action](../r_tactical_action)
+ - [Transport](../r_transport)
+ - [Wormholes](../r_wormholes)
  
  

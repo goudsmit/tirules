@@ -22,7 +22,7 @@ A supernova is an anomaly that affects movement.
 ## Related Topics
 
  
- - [Anomalies](r_anomalies)
- - [Movement](r_movement)
+ - [Anomalies](../r_anomalies)
+ - [Movement](../r_movement)
  
  

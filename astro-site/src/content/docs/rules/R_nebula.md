@@ -33,10 +33,10 @@ A nebula is an anomaly that affects movement and combat.
 ## Related Topics
 
  
- - [Active System](r_active_system)
- - [Anomalies](r_anomalies)
- - [Combat](r_combat)
- - [Defender](r_defender)
- - [Move](r_move)
+ - [Active System](../r_active_system)
+ - [Anomalies](../r_anomalies)
+ - [Combat](../r_combat)
+ - [Defender](../r_defender)
+ - [Move](../r_move)
  
  

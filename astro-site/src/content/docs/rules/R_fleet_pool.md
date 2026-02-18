@@ -33,10 +33,10 @@ The fleet pool is an area of a player’s command sheet.
 ## Related Topics
 
  
- - [Capacity](r_capacity)
- - [Command Sheet](r_command_sheet)
- - [Command Tokens](r_command_tokens)
- - [Ships](r_ships)
- - [System Tiles](r_system_tiles)
+ - [Capacity](../r_capacity)
+ - [Command Sheet](../r_command_sheet)
+ - [Command Tokens](../r_command_tokens)
+ - [Ships](../r_ships)
+ - [System Tiles](../r_system_tiles)
  
  

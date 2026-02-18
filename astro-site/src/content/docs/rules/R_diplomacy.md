@@ -35,12 +35,12 @@ The <i>Diplomacy</i> strategy card can be used to preemptively prevent other pla
 ## Related Topics
 
  
- - [Active System](r_active_system)
- - [Command Tokens](r_command_tokens)
- - [Initiative Order](r_initiative_order)
- - [Planets](r_planets)
- - [Readied](r_readied)
- - [Strategic Action](r_strategic_action)
- - [Strategy Card](r_strategy_card)
+ - [Active System](../r_active_system)
+ - [Command Tokens](../r_command_tokens)
+ - [Initiative Order](../r_initiative_order)
+ - [Planets](../r_planets)
+ - [Readied](../r_readied)
+ - [Strategic Action](../r_strategic_action)
+ - [Strategy Card](../r_strategy_card)
  
  

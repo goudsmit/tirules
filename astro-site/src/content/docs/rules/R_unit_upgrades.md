@@ -30,7 +30,7 @@ A unit upgrade is a type of technology card.
 ## Related Topics
 
  
- - [Technology](r_technology)
- - [Units](r_units)
+ - [Technology](../r_technology)
+ - [Units](../r_units)
  
  

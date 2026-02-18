@@ -33,9 +33,9 @@ The first player to gain 10 victory points wins the game.
 ## Related Topics
 
  
- - [Agenda Card](r_agenda_card)
- - [Imperial](r_imperial)
- - [Objective Cards](r_objective_cards)
- - [Relics](r_relics)
+ - [Agenda Card](../r_agenda_card)
+ - [Imperial](../r_imperial)
+ - [Objective Cards](../r_objective_cards)
+ - [Relics](../r_relics)
  
  

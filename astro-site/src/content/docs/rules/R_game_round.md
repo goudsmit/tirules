@@ -30,10 +30,10 @@ A game round consists of the following four phases:
 ## Related Topics
 
  
- - [Action Phase](r_action_phase)
- - [Agenda Phase](r_agenda_phase)
- - [Custodians Token](r_custodians_token)
- - [Status Phase](r_status_phase)
- - [Strategy Phase](r_strategy_phase)
+ - [Action Phase](../r_action_phase)
+ - [Agenda Phase](../r_agenda_phase)
+ - [Custodians Token](../r_custodians_token)
+ - [Status Phase](../r_status_phase)
+ - [Strategy Phase](../r_strategy_phase)
  
  

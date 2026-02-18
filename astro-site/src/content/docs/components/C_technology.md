@@ -3,7 +3,7 @@ title: Technology
 ---
 
  
-For notes about specific generic unit upgrade technologies, see the <a href="C_units">unit component notes page</a>.
+For notes about specific generic unit upgrade technologies, see the [unit component notes page](../c_units).
 
  
 For notes about technologies of a specific faction, see that faction’s notes page.

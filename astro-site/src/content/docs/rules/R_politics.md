@@ -29,11 +29,11 @@ The <i>Politics</i> strategy card allows players to draw action cards. Additiona
 ## Related Topics
 
  
- - [Action Cards](r_action_cards)
- - [Agenda Card](r_agenda_card)
- - [Initiative Order](r_initiative_order)
- - [Speaker](r_speaker)
- - [Strategic Action](r_strategic_action)
- - [Strategy Card](r_strategy_card)
+ - [Action Cards](../r_action_cards)
+ - [Agenda Card](../r_agenda_card)
+ - [Initiative Order](../r_initiative_order)
+ - [Speaker](../r_speaker)
+ - [Strategic Action](../r_strategic_action)
+ - [Strategy Card](../r_strategy_card)
  
  

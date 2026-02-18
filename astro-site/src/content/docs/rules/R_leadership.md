@@ -25,11 +25,11 @@ The <i>Leadership</i> strategy card allows players to gain command tokens. This 
 ## Related Topics
 
  
- - [Command Sheet](r_command_sheet)
- - [Command Tokens](r_command_tokens)
- - [Influence](r_influence)
- - [Initiative Order](r_initiative_order)
- - [Strategic Action](r_strategic_action)
- - [Strategy Card](r_strategy_card)
+ - [Command Sheet](../r_command_sheet)
+ - [Command Tokens](../r_command_tokens)
+ - [Influence](../r_influence)
+ - [Initiative Order](../r_initiative_order)
+ - [Strategic Action](../r_strategic_action)
+ - [Strategy Card](../r_strategy_card)
  
  

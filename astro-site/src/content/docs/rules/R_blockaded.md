@@ -30,10 +30,10 @@ A player’s unit with Production is blockaded if it is in a system that does no
 ## Related Topics
 
  
- - [Capture](r_capture)
- - [Producing Units](r_producing_units)
- - [Production](r_production)
- - [Ships](r_ships)
- - [Space Dock](r_space_dock)
+ - [Capture](../r_capture)
+ - [Producing Units](../r_producing_units)
+ - [Production](../r_production)
+ - [Ships](../r_ships)
+ - [Space Dock](../r_space_dock)
  
  

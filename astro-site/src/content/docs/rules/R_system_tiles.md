@@ -26,12 +26,12 @@ A system tile represents an area of the galaxy. Players place system tiles durin
 ## Related Topics
 
  
- - [Active System](r_active_system)
- - [Adjacency](r_adjacency)
- - [Anomalies](r_anomalies)
- - [Game Board](r_game_board)
- - [Hyperlanes](r_hyperlanes)
- - [Planets](r_planets)
- - [Wormholes](r_wormholes)
+ - [Active System](../r_active_system)
+ - [Adjacency](../r_adjacency)
+ - [Anomalies](../r_anomalies)
+ - [Game Board](../r_game_board)
+ - [Hyperlanes](../r_hyperlanes)
+ - [Planets](../r_planets)
+ - [Wormholes](../r_wormholes)
  
  

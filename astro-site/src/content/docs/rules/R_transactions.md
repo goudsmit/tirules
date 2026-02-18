@@ -46,14 +46,14 @@ A transaction is a way for a player to exchange commodities, trade goods, promis
 ## Related Topics
 
  
- - [Active Player](r_active_player)
- - [Agenda Phase](r_agenda_phase)
- - [Capture](r_capture)
- - [Commodities](r_commodities)
- - [Exploration](r_exploration)
- - [Deals](r_deals)
- - [Neighbors](r_neighbors)
- - [Promissory Notes](r_promissory_notes)
- - [Trade Goods](r_trade_goods)
+ - [Active Player](../r_active_player)
+ - [Agenda Phase](../r_agenda_phase)
+ - [Capture](../r_capture)
+ - [Commodities](../r_commodities)
+ - [Exploration](../r_exploration)
+ - [Deals](../r_deals)
+ - [Neighbors](../r_neighbors)
+ - [Promissory Notes](../r_promissory_notes)
+ - [Trade Goods](../r_trade_goods)
  
  
