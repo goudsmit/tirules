@@ -2,7 +2,7 @@
 
 A searchable online rules reference for [Twilight Imperium: Fourth Edition](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/), built with [Astro](https://astro.build/) and [Starlight](https://starlight.astro.build/).
 
-Covers the base game, the *Prophecy of Kings* expansion, and the *Codex* supplements.
+Covers the base game, the *Prophecy of Kings* expansion, the *Thunder's Edge* expansion, and the *Codex* supplements.
 
 ## Tech Stack
 
