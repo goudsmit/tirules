@@ -9,7 +9,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Twilight Imperium 4 Rules',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/yjmrobert/tirules' }],
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/yjmrobert/tirules' },
+				{ icon: 'comment', label: 'Discussions', href: 'https://github.com/yjmrobert/tirules/discussions' },
+			],
 			customCss: [
 				'./src/styles/custom.css',
 			],

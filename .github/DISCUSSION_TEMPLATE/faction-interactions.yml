@@ -1,0 +1,57 @@
+title: "[Faction] "
+labels: ["faction-interaction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for questions about specific faction abilities, technologies, leaders, units, or how they interact with other game elements.
+
+        Before posting, check the relevant faction page on [the site](https://yjmrobert.com/tirules) — the Notes sections may already address your question.
+  - type: input
+    id: factions
+    attributes:
+      label: Faction(s) Involved
+      description: Which faction(s) are involved in this interaction?
+      placeholder: e.g. Nekro Virus, Mahact Gene-Sorcerers
+    validations:
+      required: true
+  - type: input
+    id: ability
+    attributes:
+      label: Ability / Component
+      description: The specific faction ability, technology, leader, promissory note, mech, or flagship involved.
+      placeholder: e.g. Technology Singularity, Genetic Recombination, Il Na Viroset (Commander)
+    validations:
+      required: true
+  - type: textarea
+    id: interaction
+    attributes:
+      label: Interaction Description
+      description: Describe the interaction or edge case. Include any other components (action cards, relics, agendas, etc.) involved in the interaction.
+      placeholder: |
+        e.g. The Nekro player uses Technology Singularity to copy a technology during combat. At the same time, the Mahact commander triggers...
+    validations:
+      required: true
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product does this question primarily relate to?
+      options:
+        - Base Game
+        - Prophecy of Kings
+        - "Thunder's Edge"
+        - Codex I (Ordinian)
+        - Codex II (Affinity)
+        - Codex III (Vigil)
+        - Multiple / Unsure
+    validations:
+      required: true
+  - type: input
+    id: related-pages
+    attributes:
+      label: Related Pages
+      description: Link to any relevant faction or rules pages on the site (optional).
+      placeholder: e.g. https://yjmrobert.com/tirules/factions/f_nekro/
+    validations:
+      required: false

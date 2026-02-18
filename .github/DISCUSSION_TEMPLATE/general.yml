@@ -1,0 +1,14 @@
+title: ""
+labels: ["general"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is an open space for general TI4 discussion, meta-conversation about the site, introductions, or anything that doesn't fit into the other categories.
+  - type: textarea
+    id: content
+    attributes:
+      label: What's on your mind?
+      description: Share your thoughts, ask a general question, or start a conversation.
+    validations:
+      required: true

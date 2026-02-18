@@ -1,0 +1,57 @@
+title: "[Rules Q] "
+labels: ["rules-question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for asking a rules question! Please provide as much context as possible so the community can help clarify the interaction.
+
+        Before posting, try searching [the site](https://yjmrobert.com/tirules) and [existing discussions](https://github.com/yjmrobert/tirules/discussions/categories/rules-questions) — your question may already be answered.
+  - type: input
+    id: rules-topic
+    attributes:
+      label: Rules Topic
+      description: Which rules topic does this relate to? Use the page name from the site (e.g. "Combat", "Agenda Phase", "Movement").
+      placeholder: e.g. Space Combat, Invasion, Production
+    validations:
+      required: true
+  - type: textarea
+    id: game-state
+    attributes:
+      label: Game State / Context
+      description: Describe the game situation that led to this question. Include relevant factions, units, technologies, action cards, or other components involved.
+      placeholder: |
+        e.g. The Nekro player has the Alastor flagship with ground forces on nearby planets. During space combat, their last ship is destroyed but they still have ground forces on planets in the system...
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What is the specific rules interaction or ambiguity you need clarified?
+      placeholder: What happens when...
+    validations:
+      required: true
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product does this question primarily relate to?
+      options:
+        - Base Game
+        - Prophecy of Kings
+        - "Thunder's Edge"
+        - Codex I (Ordinian)
+        - Codex II (Affinity)
+        - Codex III (Vigil)
+        - Multiple / Unsure
+    validations:
+      required: true
+  - type: input
+    id: related-pages
+    attributes:
+      label: Related Pages
+      description: Link to any relevant pages on the rules site that relate to your question (optional).
+      placeholder: e.g. https://yjmrobert.com/tirules/rules/r_space_combat/
+    validations:
+      required: false

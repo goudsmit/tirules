@@ -1,0 +1,38 @@
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to improve the rules site? Suggest new features, UX improvements, content additions, or structural changes here. All ideas are welcome!
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: What area does your suggestion relate to?
+      options:
+        - Site Feature (search, navigation, layout)
+        - Content (new rulings, missing topics, better explanations)
+        - UX / Accessibility (readability, mobile, design)
+        - Community (discussions, contributing, processes)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what you'd like to see changed or added.
+      placeholder: |
+        e.g. It would be helpful to have a "quick reference" card for each faction that summarizes their key ability timing windows...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why This Would Help
+      description: How does this benefit the TI4 community or improve the site?
+      placeholder: |
+        e.g. During games, players often need to quickly look up faction abilities without reading through all the notes...
+    validations:
+      required: false

@@ -47,6 +47,18 @@ tirules/
 └── README.md
 ```
 
+## Community
+
+Have a rules question, found an inaccuracy, or want to suggest an improvement? Head over to [GitHub Discussions](https://github.com/yjmrobert/tirules/discussions) — the community forum for this project.
+
+- **❓ Rules Questions** — Ask about specific rules interactions and edge cases
+- **🎖️ Faction Interactions** — Faction-specific ability questions
+- **📜 Official Rulings** — Confirmed designer rulings and errata
+- **🐛 Corrections** — Report inaccuracies or outdated content
+- **💡 Suggestions** — Propose improvements to the site
+- **📣 Announcements** — Project updates and new content
+- **💬 General** — Everything else
+
 ## Credits
 
 This project is a fork of [tirules](https://github.com/bradleysigma/tirules) by [bradleysigma](https://github.com/bradleysigma). Huge thanks to them for doing all of the hard work of compiling, formatting, and maintaining a comprehensive rules reference for Twilight Imperium 4. Their original PHP site at [tirules.com](https://tirules.com) has been an invaluable resource for the TI4 community.

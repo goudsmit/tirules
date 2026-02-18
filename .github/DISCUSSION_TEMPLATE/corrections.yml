@@ -1,0 +1,41 @@
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found something wrong on the site? Report inaccuracies, outdated rulings, broken links, or typos here. If you have a source for the correct information (designer ruling, FAQ, etc.), please include it.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Which page on the site contains the error? Use the page name or URL.
+      placeholder: e.g. Space Combat, https://yjmrobert.com/tirules/rules/r_space_combat/
+    validations:
+      required: true
+  - type: textarea
+    id: current-text
+    attributes:
+      label: Current Text
+      description: Quote or describe the incorrect or outdated content as it currently appears on the site.
+      placeholder: |
+        Note 4 on the Space Combat page states: "A player cannot retreat into a nebula."
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested Fix
+      description: What should it say instead? Explain the correction and why it's needed.
+      placeholder: |
+        This should be updated to account for the Thunder's Edge ruling that...
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Link to or cite the official ruling, FAQ entry, designer statement, or other source that supports this correction (optional but strongly encouraged).
+      placeholder: e.g. Dane ruling on TI4 forum, Codex III FAQ entry
+    validations:
+      required: false
