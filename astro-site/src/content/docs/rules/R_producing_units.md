@@ -49,16 +49,16 @@ The primary way that a player produces new units is by resolving the Production 
 ## Related Topics
 
  
- - [Blockaded](r_blockaded)
- - [Component Limitations](r_component_limitations)
- - [Cost](r_cost)
- - [Fighter Tokens](r_fighter_tokens)
- - [Infantry Tokens](r_infantry_tokens)
- - [Production](r_production)
- - [Resources](r_resources)
- - [Space Dock](r_space_dock)
- - [Tactical Action](r_tactical_action)
- - [Units](r_units)
- - [Warfare](r_warfare)
+ - [Blockaded](../r_blockaded)
+ - [Component Limitations](../r_component_limitations)
+ - [Cost](../r_cost)
+ - [Fighter Tokens](../r_fighter_tokens)
+ - [Infantry Tokens](../r_infantry_tokens)
+ - [Production](../r_production)
+ - [Resources](../r_resources)
+ - [Space Dock](../r_space_dock)
+ - [Tactical Action](../r_tactical_action)
+ - [Units](../r_units)
+ - [Warfare](../r_warfare)
  
  

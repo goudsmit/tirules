@@ -23,10 +23,10 @@ Each player has a command sheet that contains a strategy pool, a tactic pool, a 
 ## Related Topics
 
  
- - [Command Tokens](r_command_tokens)
- - [Fleet Pool](r_fleet_pool)
- - [Strategic Action](r_strategic_action)
- - [Tactical Action](r_tactical_action)
- - [Trade Goods](r_trade_goods)
+ - [Command Tokens](../r_command_tokens)
+ - [Fleet Pool](../r_fleet_pool)
+ - [Strategic Action](../r_strategic_action)
+ - [Tactical Action](../r_tactical_action)
+ - [Trade Goods](../r_trade_goods)
  
  

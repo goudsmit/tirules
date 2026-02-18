@@ -25,12 +25,12 @@ During combat, the active player is the attacker.
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Active Player](r_active_player)
- - [Defender](r_defender)
- - [Ground Combat](r_ground_combat)
- - [Invasion](r_invasion)
- - [Opponent](r_opponent)
- - [Space Combat](r_space_combat)
+ - [Abilities](../r_abilities)
+ - [Active Player](../r_active_player)
+ - [Defender](../r_defender)
+ - [Ground Combat](../r_ground_combat)
+ - [Invasion](../r_invasion)
+ - [Opponent](../r_opponent)
+ - [Space Combat](../r_space_combat)
  
  

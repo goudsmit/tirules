@@ -21,11 +21,11 @@ Various game effects can cause a unit to be destroyed. When a player’s unit is
 ## Related Topics
 
  
- - [Anti–Fighter Barrage](r_anti_fighter_barrage)
- - [Bombardment](r_bombardment)
- - [Ground Combat](r_ground_combat)
- - [Space Cannon](r_space_cannon)
- - [Space Combat](r_space_combat)
- - [Sustain Damage](r_sustain_damage)
+ - [Anti–Fighter Barrage](../r_anti_fighter_barrage)
+ - [Bombardment](../r_bombardment)
+ - [Ground Combat](../r_ground_combat)
+ - [Space Cannon](../r_space_cannon)
+ - [Space Combat](../r_space_combat)
+ - [Sustain Damage](../r_sustain_damage)
  
  

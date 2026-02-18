@@ -23,10 +23,10 @@ Some game effects instruct a player to reroll dice.
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Anti–Fighter Barrage](r_anti_fighter_barrage)
- - [Bombardment](r_bombardment)
- - [Combat](r_combat)
- - [Space Cannon](r_space_cannon)
+ - [Abilities](../r_abilities)
+ - [Anti–Fighter Barrage](../r_anti_fighter_barrage)
+ - [Bombardment](../r_bombardment)
+ - [Combat](../r_combat)
+ - [Space Cannon](../r_space_cannon)
  
  

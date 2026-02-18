@@ -22,11 +22,11 @@ Resources represent a planet’s material value and industry. Many game effects,
 ## Related Topics
 
  
- - [Cost](r_cost)
- - [Exhausted](r_exhausted)
- - [Planets](r_planets)
- - [Producing Units](r_producing_units)
- - [Production](r_production)
- - [Trade Goods](r_trade_goods)
+ - [Cost](../r_cost)
+ - [Exhausted](../r_exhausted)
+ - [Planets](../r_planets)
+ - [Producing Units](../r_producing_units)
+ - [Production](../r_production)
+ - [Trade Goods](../r_trade_goods)
  
  

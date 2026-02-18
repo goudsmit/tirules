@@ -50,13 +50,13 @@ Planets and some space areas can be explored, yielding varying results determine
 ## Related Topics
 
  
- - [Attach](r_attach)
- - [Control](r_control)
- - [Frontier Tokens](r_frontier_tokens)
- - [Invasion](r_invasion)
- - [Planets](r_planets)
- - [Purge](R_purge)
- - [Relics](r_relics)
- - [Transactions](r_transactions)
+ - [Attach](../r_attach)
+ - [Control](../r_control)
+ - [Frontier Tokens](../r_frontier_tokens)
+ - [Invasion](../r_invasion)
+ - [Planets](../r_planets)
+ - [Purge](../r_purge)
+ - [Relics](../r_relics)
+ - [Transactions](../r_transactions)
  
  

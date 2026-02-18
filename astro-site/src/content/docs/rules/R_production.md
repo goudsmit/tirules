@@ -35,12 +35,12 @@ During the <b>Production</b> step of a tactical action, the active player can re
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Blockaded](r_blockaded)
- - [Producing Units](r_producing_units)
- - [Resources](r_resources)
- - [Space Dock](r_space_dock)
- - [Units](r_units)
- - [Warfare](r_warfare)
+ - [Abilities](../r_abilities)
+ - [Blockaded](../r_blockaded)
+ - [Producing Units](../r_producing_units)
+ - [Resources](../r_resources)
+ - [Space Dock](../r_space_dock)
+ - [Units](../r_units)
+ - [Warfare](../r_warfare)
  
  

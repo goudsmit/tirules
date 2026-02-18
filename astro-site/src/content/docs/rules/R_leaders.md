@@ -62,11 +62,11 @@ Each player has several faction–specific leader cards that represent character
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Component Action](r_component_action)
- - [Exhausted](r_exhausted)
- - [Leader Sheet](r_leader_sheet)
- - [Purge](r_purge)
- - [Readied](r_readied)
+ - [Abilities](../r_abilities)
+ - [Component Action](../r_component_action)
+ - [Exhausted](../r_exhausted)
+ - [Leader Sheet](../r_leader_sheet)
+ - [Purge](../r_purge)
+ - [Readied](../r_readied)
  
  

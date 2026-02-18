@@ -25,9 +25,9 @@ Mechs are unique, faction–specific heavy ground forces.
 ## Related Topics
 
  
- - [Deploy](r_deploy)
- - [Ground Forces](r_ground_forces)
- - [Leader Sheet](r_leader_sheet)
- - [Units](r_units)
+ - [Deploy](../r_deploy)
+ - [Ground Forces](../r_ground_forces)
+ - [Leader Sheet](../r_leader_sheet)
+ - [Units](../r_units)
  
  

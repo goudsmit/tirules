@@ -25,10 +25,10 @@ Influence represents a planet’s political power. Players spend influence to ga
 ## Related Topics
 
  
- - [Agenda Phase](r_agenda_phase)
- - [Custodians Token](r_custodians_token)
- - [Exhausted](r_exhausted)
- - [Leadership](r_leadership)
- - [Planets](r_planets)
+ - [Agenda Phase](../r_agenda_phase)
+ - [Custodians Token](../r_custodians_token)
+ - [Exhausted](../r_exhausted)
+ - [Leadership](../r_leadership)
+ - [Planets](../r_planets)
  
  

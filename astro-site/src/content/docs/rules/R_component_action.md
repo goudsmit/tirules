@@ -24,13 +24,13 @@ A component action is a type of action that a player can perform during their tu
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Action Cards](r_action_cards)
- - [Action Phase](r_action_phase)
- - [Exploration](r_exploration)
- - [Leaders](r_leaders)
- - [Promissory Notes](r_promissory_notes)
- - [Relics](r_relics)
- - [Technology](r_technology)
+ - [Abilities](../r_abilities)
+ - [Action Cards](../r_action_cards)
+ - [Action Phase](../r_action_phase)
+ - [Exploration](../r_exploration)
+ - [Leaders](../r_leaders)
+ - [Promissory Notes](../r_promissory_notes)
+ - [Relics](../r_relics)
+ - [Technology](../r_technology)
  
  

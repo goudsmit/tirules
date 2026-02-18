@@ -48,10 +48,10 @@ A unit with the Bombardment ability may be able to destroy another player’s gr
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Destroyed](r_destroyed)
- - [Ground Forces](r_ground_forces)
- - [Invasion](r_invasion)
- - [Planetary Shield](r_planetary_shield)
+ - [Abilities](../r_abilities)
+ - [Destroyed](../r_destroyed)
+ - [Ground Forces](../r_ground_forces)
+ - [Invasion](../r_invasion)
+ - [Planetary Shield](../r_planetary_shield)
  
  

@@ -36,12 +36,12 @@ During the action phase, each player takes a turn in initiative order. During a 
 ## Related Topics
 
  
- - [Active Player](r_active_player)
- - [Component Action](r_component_action)
- - [Game Round](r_game_round)
- - [Initiative Order](r_initiative_order)
- - [Status Phase](r_status_phase)
- - [Strategic Action](r_strategic_action)
- - [Tactical Action](r_tactical_action)
+ - [Active Player](../r_active_player)
+ - [Component Action](../r_component_action)
+ - [Game Round](../r_game_round)
+ - [Initiative Order](../r_initiative_order)
+ - [Status Phase](../r_status_phase)
+ - [Strategic Action](../r_strategic_action)
+ - [Tactical Action](../r_tactical_action)
  
  

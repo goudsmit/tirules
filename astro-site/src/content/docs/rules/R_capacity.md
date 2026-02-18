@@ -40,9 +40,9 @@ Capacity is an attribute of some units that is presented on faction sheets and u
 ## Related Topics
 
  
- - [Fleet Pool](r_fleet_pool)
- - [Movement](r_movement)
- - [Space Combat](r_space_combat)
- - [Transport](r_transport)
+ - [Fleet Pool](../r_fleet_pool)
+ - [Movement](../r_movement)
+ - [Space Combat](../r_space_combat)
+ - [Transport](../r_transport)
  
  

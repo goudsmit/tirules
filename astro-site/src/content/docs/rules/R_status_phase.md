@@ -38,16 +38,16 @@ During the status phase, players score objectives and prepare for the next game 
 ## Related Topics
 
  
- - [Action Cards](r_action_cards)
- - [Agenda Phase](r_agenda_phase)
- - [Custodians Token](r_custodians_token)
- - [Command Tokens](r_command_tokens)
- - [Game Round](r_game_round)
- - [Initiative Order](r_initiative_order)
- - [Objective Cards](r_objective_cards)
- - [Readied](r_readied)
- - [Strategy Card](r_strategy_card)
- - [Sustain Damage](r_sustain_damage)
- - [Victory Points](r_victory_points)
+ - [Action Cards](../r_action_cards)
+ - [Agenda Phase](../r_agenda_phase)
+ - [Custodians Token](../r_custodians_token)
+ - [Command Tokens](../r_command_tokens)
+ - [Game Round](../r_game_round)
+ - [Initiative Order](../r_initiative_order)
+ - [Objective Cards](../r_objective_cards)
+ - [Readied](../r_readied)
+ - [Strategy Card](../r_strategy_card)
+ - [Sustain Damage](../r_sustain_damage)
+ - [Victory Points](../r_victory_points)
  
  

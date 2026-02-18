@@ -49,9 +49,9 @@ Action cards provide players with various abilities that they can resolve as des
 ## Related Topics
 
  
- - [Abilities](r_abilities)
- - [Component Action](r_component_action)
- - [Politics](r_politics)
- - [Status Phase](r_status_phase)
+ - [Abilities](../r_abilities)
+ - [Component Action](../r_component_action)
+ - [Politics](../r_politics)
+ - [Status Phase](../r_status_phase)
  
  

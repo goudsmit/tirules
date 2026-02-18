@@ -24,7 +24,7 @@ Two players are neighbors if they both have a unit or control a planet in the sa
 ## Related Topics
 
  
- - [Adjacency](r_adjacency)
- - [Transactions](r_transactions)
+ - [Adjacency](../r_adjacency)
+ - [Transactions](../r_transactions)
  
  

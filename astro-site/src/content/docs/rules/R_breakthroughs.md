@@ -27,8 +27,8 @@ There currently does not exist a Living Rules Reference section regarding breakt
 ## Related Topics
 
  
- - [Expedition](r_expedition)
- - [The Fracture](r_fracture)
- - [Synergy](r_synergy)
+ - [Expedition](../r_expedition)
+ - [The Fracture](../r_fracture)
+ - [Synergy](../r_synergy)
  
  

@@ -31,11 +31,11 @@ A space dock is a structure that allows players to produce units.
 ## Related Topics
 
  
- - [Blockaded](r_blockaded)
- - [Construction](r_construction)
- - [Producing Units](r_producing_units)
- - [Production](r_production)
- - [Structures](r_structures)
- - [Warfare](r_warfare)
+ - [Blockaded](../r_blockaded)
+ - [Construction](../r_construction)
+ - [Producing Units](../r_producing_units)
+ - [Production](../r_production)
+ - [Structures](../r_structures)
+ - [Warfare](../r_warfare)
  
  

@@ -34,8 +34,8 @@ The wormhole nexus is a system tile where several wormholes converge.
 ## Related Topics
 
  
- - [Movement](r_movement)
- - [System Tiles](r_system_tiles)
- - [Wormholes](r_wormholes)
+ - [Movement](../r_movement)
+ - [System Tiles](../r_system_tiles)
+ - [Wormholes](../r_wormholes)
  
  

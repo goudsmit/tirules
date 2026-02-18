@@ -75,11 +75,11 @@ When voting during the agenda phase, a player can cast votes for a specific outc
 ## Related Topics
 
  
- - [Agenda Cards](r_agenda_card)
- - [Custodians Token](r_custodians_token)
- - [Game Round](r_game_round)
- - [Influence](r_influence)
- - [Speaker](r_speaker)
- - [Transactions](r_transactions)
+ - [Agenda Cards](../r_agenda_card)
+ - [Custodians Token](../r_custodians_token)
+ - [Game Round](../r_game_round)
+ - [Influence](../r_influence)
+ - [Speaker](../r_speaker)
+ - [Transactions](../r_transactions)
  
  

@@ -22,12 +22,12 @@ A ground force is a type of unit. All infantry and mech units in the game are gr
 ## Related Topics
 
  
- - [Capacity](r_capacity)
- - [Control](r_control)
- - [Ground Combat](r_ground_combat)
- - [Infantry Tokens](r_infantry_tokens)
- - [Mechs](r_mechs)
- - [Transport](r_transport)
- - [Units](r_units)
+ - [Capacity](../r_capacity)
+ - [Control](../r_control)
+ - [Ground Combat](../r_ground_combat)
+ - [Infantry Tokens](../r_infantry_tokens)
+ - [Mechs](../r_mechs)
+ - [Transport](../r_transport)
+ - [Units](../r_units)
  
  

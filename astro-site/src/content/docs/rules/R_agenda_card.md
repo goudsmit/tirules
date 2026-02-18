@@ -30,10 +30,10 @@ Agenda cards represent galactic laws and policies. During each agenda phase, pla
 ## Related Topics
 
  
- - [Agenda Phase](r_agenda_phase)
- - [Attach](r_attach)
- - [Politics](r_politics)
- - [Speaker](r_speaker)
- - [Victory Points](r_victory_points)
+ - [Agenda Phase](../r_agenda_phase)
+ - [Attach](../r_attach)
+ - [Politics](../r_politics)
+ - [Speaker](../r_speaker)
+ - [Victory Points](../r_victory_points)
  
  

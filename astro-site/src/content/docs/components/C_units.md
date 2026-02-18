@@ -56,7 +56,7 @@ For notes about specific faction unit upgrade technology, see that faction’s n
 ## Mech
 
  
- 1. See the <a href="R_mechs">mechs page</a> of the Rules Reference.
+ 1. See the [mechs page](../rules/r_mechs) of the Rules Reference.
  2. For notes about the mechs of a specific faction, see that faction’s notes page.
  
  
@@ -70,12 +70,12 @@ For notes about specific faction unit upgrade technology, see that faction’s n
 ## PDS
 
  
- 1. See the <a href="R_pds">PDS page</a> of the Rules Reference.
+ 1. See the [PDS page](../rules/r_pds) of the Rules Reference.
  
  
 ## Space Dock
 
  
- 1. See the <a href="R_space_dock">space dock page</a> of the Rules Reference.
+ 1. See the [space dock page](../rules/r_space_dock) of the Rules Reference.
  
  

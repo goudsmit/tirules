@@ -23,11 +23,11 @@ During either a space or ground combat, the player who is not the active player 
 ## Related Topics
 
  
- - [Attacker](r_attacker)
- - [Ground Combat](r_ground_combat)
- - [Invasion](r_invasion)
- - [Nebula](r_nebula)
- - [Opponent](r_opponent)
- - [Space Combat](r_space_combat)
+ - [Attacker](../r_attacker)
+ - [Ground Combat](../r_ground_combat)
+ - [Invasion](../r_invasion)
+ - [Nebula](../r_nebula)
+ - [Opponent](../r_opponent)
+ - [Space Combat](../r_space_combat)
  
  
