@@ -57,6 +57,8 @@ This fork rebuilds the site using Astro and Starlight to add full-text search, i
 
 The original PHP site is preserved in the [`archive-site/`](archive-site/) directory for reference. It includes all of the original PHP pages, stylesheets, fonts, and the migration scripts used to convert the content to Markdown.
 
+You can also view the source code on the `archive-tirules` branch [here](https://github.com/yjmrobert/tirules/tree/archive-tirules)
+
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
