@@ -19,11 +19,11 @@ body:
     id: game-state
     attributes:
       label: Game State / Context
-      description: Describe the game situation that led to this question. Include relevant factions, units, technologies, action cards, or other components involved.
+      description: (If applicable) Describe the game situation that led to this question. Include relevant factions, units, technologies, action cards, or other components involved.
       placeholder: |
         e.g. The Nekro player has the Alastor flagship with ground forces on nearby planets. During space combat, their last ship is destroyed but they still have ground forces on planets in the system...
     validations:
-      required: true
+      required: false
   - type: textarea
     id: question
     attributes:
