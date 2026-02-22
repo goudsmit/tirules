@@ -506,8 +506,7 @@ title: Action Cards
     1. The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.
 
  3. If the Mecatol Rex planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.4.  5. If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.
- 
- 
+
 ## Mining Initiative
 
  

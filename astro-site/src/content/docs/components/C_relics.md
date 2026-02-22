@@ -163,10 +163,9 @@ title: Relics
  
 ## The Silver Flame
 
- 
- 1. The “0” side of the d10 represents a result of 10.
- 
- 
+
+ 1. The "0" side of the d10 represents a result of 10.
+
 ## Stellar Converter
 
  
@@ -189,5 +188,4 @@ title: Relics
      6. <i>The Triad</i> does not have a planet trait; it cannot be explored.
  
      7. <i>The Triad</i> may be exhausted to cast votes, and readies at the end of the agenda phase.
- 
- 
+

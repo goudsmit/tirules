@@ -5,9 +5,7 @@ title: The Crimson Rebellion
  
 ## Sundered
 
- 
- 
- 
+
 ## Incursion
 
  

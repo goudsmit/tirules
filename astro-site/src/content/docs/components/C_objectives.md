@@ -49,8 +49,7 @@ title: Objectives
  2. If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.
  3. If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.
  4. The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.
- 
- 
+
 ## Become the Gatekeeper
 
  
