@@ -5,9 +5,7 @@ title: The Deepwrought Scholarate
  
 ## Research Team
 
- 
- 
- 
+
 ## Oceanbound
 
  

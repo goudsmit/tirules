@@ -107,8 +107,6 @@ title: The Naaz–Rokha Alliance
  4. The Naaz–Rokha player can never have two or more Eidolon Maximums on the game board.
  5. The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <i>Visz El Vir</i>.
  6. The Eidolon Maximum is considered a ship for all relevant game effects.
- 
+
      1. The Eidolon Maximum may be destroyed by a <i>Direct Hit</i> action card whenever it uses its Sustain Damage ability, including if it does so during a ground combat.
- 
- 
- 
+

@@ -301,6 +301,29 @@ code {
   }
 }
 
+/* --- UNRESOLVED QUESTIONS --- */
+/* Unresolved questions use Starlight's :::caution aside to visually
+   distinguish them from official rules content. The discussion link
+   at the bottom is styled as a small button. */
+
+.starlight-aside--caution p:last-child a[href*="discussions"] {
+  display: inline-block;
+  margin-top: 0.5em;
+  padding: 0.2em 0.6em;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8em;
+  letter-spacing: 0.03em;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  text-decoration: none;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.starlight-aside--caution p:last-child a[href*="discussions"]:hover {
+  opacity: 1;
+}
+
 /* Mobile Adjustments */
 @media (max-width: 768px) {
   .hero-title {

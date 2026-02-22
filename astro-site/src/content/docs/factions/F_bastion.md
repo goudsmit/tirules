@@ -15,9 +15,7 @@ title: Last Bastion
  
 ## Galvanize
 
- 
- 
- 
+
 ## Phoenix Standard
 
  

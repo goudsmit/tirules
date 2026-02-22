@@ -54,11 +54,8 @@ For notes about legendary planets associated with a specific faction, see that f
  
  
  
-## Jupiter Brain — Thunder’s Edge
+## Jupiter Brain — Thunder's Edge
 
- 
- 
- 
 ## Maxis Central Control — Faunus
 
  
